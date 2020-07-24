@@ -1,0 +1,2 @@
+Use para logar o login: restaurante@gmail.com
+e senha: 12345678
